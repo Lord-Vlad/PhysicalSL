@@ -81,3 +81,5 @@ const int shadowMapResolution = 2048; //[1024 2048 3072 4096 8192]
 #define LightShaftStrength 1.00	//[0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00]
 
 #define CloudRenderLOD 4.0
+#define CloudErosionLowStrength 0.13 //[0.10 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.2]
+#define CloudErosionHighStrength 0.16 //[0.10 0.11 0.12 0.13 0.14 0.15 0.16 0.17 0.18 0.19 0.2]
