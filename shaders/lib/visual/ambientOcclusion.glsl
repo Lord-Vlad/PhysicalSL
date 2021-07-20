@@ -1,4 +1,4 @@
-#define AOStrength 1.50	//[1.00 1.25 1.50 1.75 2.00]
+#define AOStrength 1.00	//[1.00 1.25 1.50 1.75 2.00]
 
 vec2 offsetDist(float x, int s){
 	float n = fract(x*1.414)*3.1415;
