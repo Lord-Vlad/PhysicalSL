@@ -289,6 +289,8 @@ option.vcloud_detail=Detail
 value.vcloud_detail.0=Low
 value.vcloud_detail.1=High
 option.vcloud_coverage=Coverage
+option.CloudErosionLowStrength=Bottom Erosion
+option.CloudErosionHighStrength=Top Erosion
 
 value.HorizonDistance.1.0=Very Near
 value.HorizonDistance.1.5=Near
